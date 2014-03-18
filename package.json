@@ -1,0 +1,10 @@
+{
+  "name": "intro-to-databases",
+  "description": "Code for an intro to databases talk",
+  "version": "0.0.1",
+  "dependencies": {
+    "sqlite3": "2.2.0",
+    "ejdb": "1.1.25",
+		"pouchdb": "2.0.1"
+  }
+}
