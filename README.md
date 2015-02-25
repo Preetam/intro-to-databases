@@ -5,7 +5,7 @@ Getting started
 ---
 1. Get Python
 2. Clone this repository
-3. Do the examples (they're fill-in-the-blank)
+3. Do the exercises (they're fill-in-the-blank)
 
 Each example is in its own test case. You'll have to use the following to
 run each of them individually:
