@@ -11,13 +11,13 @@ Each example is in its own test case. You'll have to use the following to
 run each of them individually:
 
 ```sh
-python -m unittest.exercises.E.test_exercise_1
+python -m unittest exercises.E.test_exercise_1
 ```
 
 For exercise 2, use the following:
 
 ```sh
-python -m unittest.exercises.E.test_exercise_2
+python -m unittest exercises.E.test_exercise_2
 ```
 
 and so on.
