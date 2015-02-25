@@ -57,7 +57,7 @@ class E(unittest.TestCase):
         #
         #
         #############################
-        cur.execute('SELECT color FROM colors ORDER BY color ASC LIMIT 5')
+        cur.execute('SELECT name FROM colors ORDER BY name ASC LIMIT 5')
         data = cur.fetchall()
         cur.close()
         self.assertTrue(data ==
