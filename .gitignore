@@ -17,5 +17,4 @@ node_modules
 data/*
 
 *.sqlite
-exercises_solutions.py
 *.pyc
